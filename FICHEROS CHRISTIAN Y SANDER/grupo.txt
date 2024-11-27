@@ -1,0 +1,12 @@
+Persona 1:
+Nombre: Christian 
+Seccion: A
+
+Persona 2:
+Nombre: Suunder
+Seccion: A
+
+Persona 3:
+Nombre: 
+Seccion: 
+
